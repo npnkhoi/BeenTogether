@@ -14,6 +14,7 @@ body {
 		url('images/IMG_0062.jpg');
 	background-size: cover;
 	background-position: center center;
+	background-repeat: no-repeat;
   text-align:center;
   width:auto;
   height:auto;
